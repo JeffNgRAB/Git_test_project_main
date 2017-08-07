@@ -1,3 +1,4 @@
 [submodule "Git_test_project_sub"]
 	path = Git_test_project_sub
 	url = https://github.com/JeffNgRAB/Git_test_project_sub/
+	branch = master
